@@ -202,6 +202,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 
 For questions or feedback, please contact:  
-- **Your Name**: Kishanthan Moorthy  
+- **Name**: Kishanthan Moorthy  
 - **GitHub**: [Kisho11](https://github.com/Kisho11)  
 ```
