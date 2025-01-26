@@ -1,6 +1,3 @@
-Here’s the content formatted as a proper `README.md` file:
-
-```markdown
 # WhatsApp Integration - Django Application
 
 This is a **Django-based application** that demonstrates how to integrate WhatsApp messaging into a customer support system. It includes features like sending and receiving messages, a webhook for incoming messages, and an admin interface for managing messages.
@@ -9,41 +6,41 @@ This is a **Django-based application** that demonstrates how to integrate WhatsA
 
 ## **Table of Contents**
 
-1. [Features](#features)  
-2. [Technical Specifications](#technical-specifications)  
-3. [Setup Instructions](#setup-instructions)  
-   - [Local Setup](#local-setup)  
-   - [Docker Setup](#docker-setup)  
-4. [API Documentation](#api-documentation)  
-   - [Webhook Endpoint](#webhook-endpoint)  
-   - [Send Message Endpoint](#send-message-endpoint)  
-5. [Admin Interface](#admin-interface)  
-6. [Running Tests](#running-tests)  
-7. [Future Improvements](#future-improvements)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
+1. [Features](#features)
+2. [Technical Specifications](#technical-specifications)
+3. [Setup Instructions](#setup-instructions)
+   - [Local Setup](#local-setup)
+   - [Docker Setup](#docker-setup)
+4. [API Documentation](#api-documentation)
+   - [Webhook Endpoint](#webhook-endpoint)
+   - [Send Message Endpoint](#send-message-endpoint)
+5. [Admin Interface](#admin-interface)
+6. [Running Tests](#running-tests)
+7. [Future Improvements](#future-improvements)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ---
 
 ## **Features**
 
-- **Webhook Endpoint**: Receive incoming WhatsApp messages and store them in the database.  
-- **Send Message API**: Send WhatsApp messages via an API endpoint.  
-- **Admin Interface**: View, manage, and send test messages.  
-- **Async Message Processing**: Messages are sent asynchronously using Celery and Redis.  
-- **API Documentation**: Swagger and ReDoc for API documentation.  
-- **Docker Support**: Run the application in a Docker container.  
+- **Webhook Endpoint**: Receive incoming WhatsApp messages and store them in the database.
+- **Send Message API**: Send WhatsApp messages via an API endpoint.
+- **Admin Interface**: View, manage, and send test messages.
+- **Async Message Processing**: Messages are sent asynchronously using Celery and Redis.
+- **API Documentation**: Swagger and ReDoc for API documentation.
+- **Docker Support**: Run the application in a Docker container.
 
 ---
 
 ## **Technical Specifications**
 
-- **Python**: 3.10+  
-- **Django**: 4.2+  
-- **Django REST Framework**: 3.14.0  
-- **Database**: SQLite (default), PostgreSQL (optional with Docker)  
-- **Async Processing**: Celery + Redis  
-- **API Documentation**: drf-yasg (Swagger and ReDoc)  
+- **Python**: 3.10+
+- **Django**: 4.2+
+- **Django REST Framework**: 3.14.0
+- **Database**: SQLite (default), PostgreSQL (optional with Docker)
+- **Async Processing**: Celery + Redis
+- **API Documentation**: drf-yasg (Swagger and ReDoc)
 
 ---
 
@@ -55,7 +52,6 @@ This is a **Django-based application** that demonstrates how to integrate WhatsA
    ```bash
    git clone https://github.com/your-username/whatsapp-integration.git
    cd whatsapp-integration
-   ```
 
 2. **Install Dependencies**:
    ```bash
@@ -206,6 +202,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 
 For questions or feedback, please contact:  
-- **Your Name**: your-email@example.com  
-- **GitHub**: [your-username](https://github.com/your-username)  
+- **Your Name**: Kishanthan Moorthy  
+- **GitHub**: [Kisho11](https://github.com/Kisho11)  
 ```
